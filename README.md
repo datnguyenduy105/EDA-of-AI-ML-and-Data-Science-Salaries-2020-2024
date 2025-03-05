@@ -1,5 +1,4 @@
-# Exploratory Data Analysis of AI, ML, and Data Science Salaries (2020-2024)
-
+# JOBS AND SALARIES IN DATA-RELATED CAREERS (2024)
 ## Table of Contents
 
 1.  [Project Overview](#project-overview)
